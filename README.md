@@ -10,5 +10,6 @@ using both real datasets and synthetic datasets demonstrate
 that DPCopula generates highly accurate synthetic multidimensional data with significantly better utility than stateof-the-art techniques.
 
 Reference
+
 Haoran Li, Li Xiong, Xiaoqian Jiang. Differentially Private Synthesization of Multi-Dimensional Data using Copula Functions. In EDBT 2014
 http://www.mathcs.emory.edu/aims/pub/li14edbt.pdf
